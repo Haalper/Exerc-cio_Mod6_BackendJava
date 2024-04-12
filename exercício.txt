@@ -1,0 +1,10 @@
+Diferença entre Programação procedural e programação orientada a objetos
+
+>>Use qualquer editor e suba na plataforma da ebac
+----------
+
+atividade 2 
+
+Fazer um algoritmo em Portugol da hora da acordar
+
+Criar um arquivo de texto no computador, e fazer o push para o github
